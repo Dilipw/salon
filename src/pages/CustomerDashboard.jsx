@@ -24,7 +24,7 @@ export default function CustomerDashboard() {
       rating: 4.8,
       owner: "Michael Lee",
       phone: "+1 555-987-6543",
-      image: "https://images.unsplash.com/photo-1605497788044-5a32c7078486?w=800&q=80",
+      image: "https://images.unsplash.com/photo-1604654894610-df63bc536371?w=800&q=80",
       price: 65,
     },
     {
